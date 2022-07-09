@@ -1,0 +1,20 @@
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Interop.WMPLib.dll
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\MP.csproj.AssemblyReference.cache
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Interop.WMPLib.dll
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\MP.csproj.ResolveComReference.cache
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Play_Sound_in_Re.frm_mp.resources
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\MP.csproj.GenerateResource.cache
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\MP.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Music Player.exe.config
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Music Player.exe.manifest
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Music Player.application
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Music Player.exe
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Music Player.pdb
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\MP.Properties.Resources.resources
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Music Player.TrustInfo.xml
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Music Player.exe.manifest
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Music Player.application
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Music Player.exe
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Music Player.pdb

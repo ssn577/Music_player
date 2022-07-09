@@ -1,0 +1,15 @@
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Play Sound in Re.exe.config
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Play Sound in Re.exe
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Play Sound in Re.pdb
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Play Sound in Resources.csproj.AssemblyReference.cache
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Play_Sound_in_Re.frm_PSR.resources
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Play_Sound_in_Re.Properties.Resources.resources
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Play Sound in Resources.csproj.GenerateResource.cache
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Play Sound in Resources.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Play Sound in Re.exe
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Play Sound in Re.pdb
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\Interop.WMPLib.dll
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Interop.WMPLib.dll
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\shali\Desktop\Play Sound in Re\Play Sound in Re\Play Sound in Re\obj\Debug\Play Sound in Resources.csproj.ResolveComReference.cache
